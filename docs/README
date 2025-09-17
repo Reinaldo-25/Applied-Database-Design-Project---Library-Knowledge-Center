@@ -1,1 +1,15 @@
+This collaborative project enhanced an existing Oracle-based database system for library management in BINUS University to make it more secure, reliable, and advanced. We improvements some part of the features, such as:
+
+1. Added constraints and validation to prevent invalid reservations (e.g., room cannot be booked without responsible person).
+2. Implemented audit logs and data integrity rules to ensure secure operations.
+3. Optimized database schema and queries for better performance.
+4. Maintained full CRUD operations for Members, Rooms, Reservations, Books, and Payments.
+
+Tools we used:
+- Database: Oracle SQL
+- Tools: SQL Developer / phpMyAdmin
+- Concepts: Constraints, Triggers, Normalization, CRUD operations, Audit logging
+
+Documentation
+ERD diagram for Database System LKC project is available here: [Database Design ERD LKC.pdf](docs/Database Design ERD LKC.pdf)
 
